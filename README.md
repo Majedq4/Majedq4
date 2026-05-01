@@ -46,9 +46,9 @@ experience in threat detection, log analysis, and incident response.
 </div>
 
 - **Security+** — CompTIA
-- **eJPT** — eLearnSecurity (Junior Penetration Tester)
-- **eCIR** — eLearnSecurity (Incident Responder)
-- **eCTHP** — eLearnSecurity (Threat Hunter) — applied directly in Splunk Detection Lab
+- **eJPT** — eLearnSecurity Junior Penetration Tester
+- **eCIR** — eLearnSecurity Incident Responder
+- **eCTHP** — eLearnSecurity Threat Hunting Professional
 
 ## Projects
 | Project | Description |
