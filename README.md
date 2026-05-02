@@ -6,8 +6,8 @@ Computer Science graduate passionate about Blue Team security,
 currently building hands-on SOC skills through home lab projects.
 
 ## Objective
-Seeking a Tier 1 SOC Analyst role where I can apply my hands-on 
-experience in threat detection, log analysis, and incident response.
+Seeking a SOC Analyst or Threat Intelligence Analyst role where I can apply 
+my hands-on experience in threat detection, threat hunting, and incident response.
 
 ## Skills
 | Skill | Project |
