@@ -16,9 +16,9 @@ my hands-on experience in threat detection, threat hunting, and incident respons
 | Threat Hunting with MITRE ATT&CK | [Splunk Detection Lab](https://github.com/Majedq4/splunk-detection-lab) |
 | Attack Simulation with Atomic Red Team | [Splunk Detection Lab](https://github.com/Majedq4/splunk-detection-lab) |
 | Windows Event Log Analysis | [Splunk Detection Lab](https://github.com/Majedq4/splunk-detection-lab) |
-| Threat Intelligence & CVE Analysis | Threat Intel Platform |
-| RSS Feed Aggregation & Data Normalization | Threat Intel Platform |
-| Docker & Containerization | Threat Intel Platform |
+| Threat Intelligence & CVE Analysis | [Threat Intel Platform](https://github.com/Majedq4/threat-intel-platform) |
+| RSS Feed Aggregation & Data Normalization | [Threat Intel Platform](https://github.com/Majedq4/threat-intel-platform) |
+| Docker & Containerization | [Threat Intel Platform](https://github.com/Majedq4/threat-intel-platform) |
 | SOAR Automation & Playbook Building | Coming soon |
 
 ## Tools
