@@ -16,6 +16,9 @@ experience in threat detection, log analysis, and incident response.
 | Threat Hunting with MITRE ATT&CK | [Splunk Detection Lab](https://github.com/Majedq4/splunk-detection-lab) |
 | Attack Simulation with Atomic Red Team | [Splunk Detection Lab](https://github.com/Majedq4/splunk-detection-lab) |
 | Windows Event Log Analysis | [Splunk Detection Lab](https://github.com/Majedq4/splunk-detection-lab) |
+| Threat Intelligence & CVE Analysis | Threat Intel Platform |
+| RSS Feed Aggregation & Data Normalization | Threat Intel Platform |
+| Docker & Containerization | Threat Intel Platform |
 | SOAR Automation & Playbook Building | Coming soon |
 
 ## Tools
@@ -30,6 +33,14 @@ experience in threat detection, log analysis, and incident response.
 <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-FF0000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Development & Infrastructure
+<div>
+<img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flask-000000?&style=for-the-badge&logo=Flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 </div>
 
 ## Certifications
@@ -49,4 +60,5 @@ experience in threat detection, log analysis, and incident response.
 | Project | Description |
 |---------|-------------|
 | [Splunk Detection Lab](https://github.com/Majedq4/splunk-detection-lab) | Built a home SOC lab, simulated MITRE ATT&CK techniques, wrote SPL detection rules |
+| Threat Intel Platform | Built a full-stack threat intelligence platform from scratch — aggregates live cybersecurity news from 4 sources, personal CVE analysis with 7-slide professional breakdown, and threat intelligence dashboard. Stack: Python, Flask, PostgreSQL, Docker |
 | SOAR Automation Lab | Coming soon — Splunk SOAR + Gmail alerting pipeline |
